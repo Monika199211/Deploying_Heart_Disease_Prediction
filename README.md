@@ -29,7 +29,7 @@
 
 ## Deployment:
 - Used Streamlit to create the Web Application.
-- Used Heroku platform for deployment my [Web Application for predicting Heart-Disease](https://heart-disease-ml-app.herokuapp.com/).
+- Used Heroku platform for deployment my [Web Application for predicting Heart-Disease](https://deploy-heartdisease-prediction.herokuapp.com/).
 
 ### Notes:
 - Learnt about using the version during Local Deployment.
