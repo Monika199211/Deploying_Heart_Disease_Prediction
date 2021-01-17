@@ -1,8 +1,5 @@
 # Deploying-a-Machine-Learning-Model
 
-## Inspiration
-### Want to learn how to Deploy your model on Ubuntu using Streamlit on Heroku, you are at the correct place.
-
 ## Data:
 - Collected from [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)
 
@@ -30,10 +27,6 @@
 ## Deployment:
 - Used Streamlit to create the Web Application.
 - Used Heroku platform for deployment my [Web Application for predicting Heart-Disease](https://deploy-heartdisease-prediction.herokuapp.com/).
-
-### Notes:
-- Learnt about using the version during Local Deployment.
-_ Keep in mind to deploy the model using the same local environment as it was trained on. (I previously did the mistake of modelling at Kaggle and then using the saved model to deploy on my localhost).
 - Use the [Streamlit Cheat Sheet](https://discuss.streamlit.io/t/streamlit-cheat-sheet/4912) while coding.
 
 
