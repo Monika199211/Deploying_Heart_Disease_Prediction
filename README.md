@@ -26,7 +26,7 @@
 
 ## Deployment:
 - Used Streamlit to create the Web Application.
-- Used Heroku platform for deployment [My Web Application for predicting Heart-Disease](https://deploy-heartdisease-prediction.herokuapp.com/).
+- Used Heroku platform for deployment [My Web Application for predicting Heart-Disease](https://deploy-heart-diseaseprediction.herokuapp.com/).
 - Use the [Streamlit Cheat Sheet](https://discuss.streamlit.io/t/streamlit-cheat-sheet/4912) while coding.
 
 
