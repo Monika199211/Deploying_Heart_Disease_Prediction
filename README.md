@@ -1,8 +1,5 @@
 # Deploying-a-Machine-Learning-Model
 
-## Data:
-- Collected from [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)
-
 ### Data Columns:
 - age
 - sex
